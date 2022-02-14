@@ -20,3 +20,7 @@ The **header.php** file is where you store your style files and all your design 
 The **index.php** file is your main template, the page where all your pages will be displayed and rendered. <br>
 
 Your **footer.php** file is the file where you laid the final foundation of the page. This file is the area where your site's end texts, js and other files are hosted. <br>
+
+
+You need to start your index.php page with **<?php get_header();?>**.
+With this code, it will pull the codes in your site's header.php to the index.php page.
