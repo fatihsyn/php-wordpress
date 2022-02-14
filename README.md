@@ -12,3 +12,11 @@ Version: 1.0 <br>
 Author: TagMedien <br>
 Author URI: https://tagmedien.de <br>
 */ <br>
+
+There are 3 important files that you need to create first. These files are **header.php**, **footer.php** and **index.php** respectively. <br>
+
+The **header.php** file is where you store your style files and all your design documents, including your logo and menu. <br>
+
+The **index.php** file is your main template, the page where all your pages will be displayed and rendered. <br>
+
+Your **footer.php** file is the file where you laid the final foundation of the page. This file is the area where your site's end texts, js and other files are hosted. <br>
